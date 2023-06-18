@@ -4,7 +4,7 @@
 
 - 🖥️ I'm a Fullstack developer
 - 💼 I’m currently working at [**BDO**](https://www.linkedin.com/company/bdobrazil)
--  I'm studying TypeScript
+- 📚 I'm studying TypeScript
 
 <br/>
 
