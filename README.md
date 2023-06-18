@@ -36,6 +36,9 @@
 
 <div style="margin-top: 20px">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-icon.svg">
+  <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg">
+  
 </div>
 
 <br/>
