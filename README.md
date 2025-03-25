@@ -66,7 +66,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
-  <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-ar21~bgwhite.svg" />
+  <img align="center" height="30" width="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" />
     
 </div>
 
