@@ -37,8 +37,8 @@
 <h3> 👻 Cloud:<h3/>
 
 <div style="margin-top: 20px">
-  <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21~bgwhite.svg">
-  <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21~bgwhite.svg">
+  <img align="center" height="30" width="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+  <img align="center" height="30" width="50" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg">
   
 </div>
 
@@ -67,6 +67,8 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
   <img align="center" height="30" width="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" />
+  <img align="center" height="30" width="50" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-ar21.svg" />
+  
     
 </div>
 
