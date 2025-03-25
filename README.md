@@ -3,8 +3,8 @@
 <br/>
 
 - 🖥️ I'm a Fullstack developer
-- 💼 I’m currently working at [**BDO**](https://www.linkedin.com/company/bdobrazil)
-- 📚 I'm studying TypeScript
+- 💼 I’m currently working at [**Santander**](https://www.linkedin.com/company/f1rstdigitalservices/)
+- 📚 I'm studying AWS
 
 <br/>
 
@@ -15,6 +15,7 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
@@ -36,9 +37,8 @@
 <h3> 👻 Cloud:<h3/>
 
 <div style="margin-top: 20px">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-icon.svg">
-  <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg">
+  <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21~bgwhite.svg">
+  <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21~bgwhite.svg">
   
 </div>
 
@@ -66,6 +66,8 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
+  <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-ar21~bgwhite.svg" />
+    
 </div>
 
 <br/>
