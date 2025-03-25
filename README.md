@@ -37,8 +37,8 @@
 <h3> 👻 Cloud:<h3/>
 
 <div style="margin-top: 20px">
-  <img align="center" height="30" width="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
-  <img align="center" height="30" width="50" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg">
+  <img align="center" height="30" width="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21~bgwhite.svg">
+  <img align="center" height="30" width="50" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21~bgwhite.svg">
   
 </div>
 
